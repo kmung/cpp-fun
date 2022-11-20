@@ -6,6 +6,8 @@
 #include <cassert> // provides cassert
 #include <cmath>
 
+// defining a positive long long data type
+// this gives a range from 0 to 18,446,744,073,709,551,615
 typedef unsigned long long UINT64;
 
 using namespace std;
